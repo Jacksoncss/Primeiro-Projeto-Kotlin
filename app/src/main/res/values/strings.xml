@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Meu Curso</string>
+
+    <!-- Home -->
+    <string name="nome_instituicao">UNIPE</string>
+    <string name="nome_curso">Análise e Desenvolvimento de Sistemas</string>
+    <string name="descricao_curta">Forme-se em 4 semestres e aprenda a projetar, programar e gerenciar sistemas para empresas de todos os portes, unindo teoria sólida e prática de mercado.</string>
+    <string name="btn_conheca_curso">CONHEÇA O CURSO</string>
+    <string name="btn_disciplinas">DISCIPLINAS</string>
+    <string name="logo_desc">Logotipo da UNIPE</string>
+
+    <!-- Sobre o curso -->
+    <string name="titulo_sobre">Sobre o Curso</string>
+    <string name="img_curso_desc">Imagem ilustrativa do curso de tecnologia</string>
+    <string name="label_duracao">Duração</string>
+    <string name="valor_duracao">4 semestres</string>
+    <string name="label_modalidade">Modalidade</string>
+    <string name="valor_modalidade">Presencial, EAD e Híbrido</string>
+    <string name="descricao_detalhada">O curso de Análise e Desenvolvimento de Sistemas da UNIPE forma profissionais capacitados para projetar, desenvolver, testar e manter sistemas computacionais. Ao longo de 4 semestres, o aluno constrói uma base sólida em lógica de programação, banco de dados, engenharia de software e desenvolvimento web e mobile, além de vivenciar projetos práticos que simulam desafios reais do mercado de tecnologia. A grade flexível, oferecida nas modalidades presencial, EAD e híbrida, permite que o estudante concilie os estudos com a rotina pessoal e profissional.</string>
+    <string name="btn_voltar">VOLTAR</string>
+
+    <!-- Disciplinas -->
+    <string name="titulo_disciplinas">Disciplinas</string>
+    <string name="disc_programacao">Programação</string>
+    <string name="disc_bd">Banco de Dados</string>
+    <string name="disc_engsoft">Engenharia de Software</string>
+    <string name="disc_web">Desenvolvimento Web</string>
+    <string name="disc_mobile">Desenvolvimento Mobile</string>
+    <string name="disc_ia">Inteligência Artificial</string>
+</resources>
