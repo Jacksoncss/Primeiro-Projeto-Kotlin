@@ -28,4 +28,49 @@
     <string name="disc_web">Desenvolvimento Web</string>
     <string name="disc_mobile">Desenvolvimento Mobile</string>
     <string name="disc_ia">Inteligência Artificial</string>
+
+    <!-- Detalhes da disciplina -->
+    <string name="titulo_detalhes">Detalhes da Disciplina</string>
+    <string name="label_carga_horaria">Carga horária:</string>
+    <string name="label_nivel">Nível:</string>
+    <string name="label_prerequisito">Pré-requisito:</string>
+    <string name="label_descricao">Descrição:</string>
+    <string name="btn_compartilhar">COMPARTILHAR</string>
+
+    <!-- Dados de cada disciplina: carga horária, modalidade, nível, pré-requisito e descrição -->
+    <string name="carga_programacao">60 horas</string>
+    <string name="modalidade_programacao">Presencial</string>
+    <string name="nivel_programacao">Básico</string>
+    <string name="prereq_programacao">Nenhum</string>
+    <string name="descricao_programacao">Introduz a lógica de programação e os fundamentos da orientação a objetos, com prática de algoritmos e resolução de problemas.</string>
+
+    <string name="carga_bd">60 horas</string>
+    <string name="modalidade_bd">EAD</string>
+    <string name="nivel_bd">Intermediário</string>
+    <string name="prereq_bd">Programação</string>
+    <string name="descricao_bd">Aborda modelagem de dados, projeto de bancos relacionais e a linguagem SQL para manipulação e consulta de informações.</string>
+
+    <string name="carga_engsoft">80 horas</string>
+    <string name="modalidade_engsoft">Híbrido</string>
+    <string name="nivel_engsoft">Avançado</string>
+    <string name="prereq_engsoft">Programação</string>
+    <string name="descricao_engsoft">Estuda processos, metodologias ágeis e boas práticas para o planejamento, desenvolvimento e manutenção de sistemas de software.</string>
+
+    <string name="carga_web">80 horas</string>
+    <string name="modalidade_web">EAD</string>
+    <string name="nivel_web">Intermediário</string>
+    <string name="prereq_web">Programação</string>
+    <string name="descricao_web">Explora HTML, CSS, JavaScript e frameworks modernos para a construção de aplicações web responsivas.</string>
+
+    <string name="carga_mobile">80 horas</string>
+    <string name="modalidade_mobile">Presencial</string>
+    <string name="nivel_mobile">Intermediário</string>
+    <string name="prereq_mobile">Programação</string>
+    <string name="descricao_mobile">Nesta disciplina são estudados conceitos relacionados ao desenvolvimento de aplicativos utilizando Kotlin e Android Studio.</string>
+
+    <string name="carga_ia">60 horas</string>
+    <string name="modalidade_ia">Híbrido</string>
+    <string name="nivel_ia">Avançado</string>
+    <string name="prereq_ia">Estrutura de Dados</string>
+    <string name="descricao_ia">Introduz conceitos de inteligência artificial e aprendizado de máquina, com aplicações práticas em problemas reais.</string>
 </resources>

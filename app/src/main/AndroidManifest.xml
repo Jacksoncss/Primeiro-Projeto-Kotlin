@@ -27,6 +27,11 @@
             android:exported="false"
             android:label="@string/titulo_disciplinas" />
 
+        <activity
+            android:name=".DetalhesDisciplinaActivity"
+            android:exported="false"
+            android:label="@string/titulo_detalhes" />
+
     </application>
 
 </manifest>
